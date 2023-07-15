@@ -1,4 +1,4 @@
-import { BasePage } from "./base/base.page";
+import { BasePage } from "../../../../fixtures/base.page";
 import { String } from 'typescript-string-operations';
 /// <reference types="cypress" />
 
